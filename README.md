@@ -6,3 +6,5 @@
 
 ## test
 To generate a quaternary GCM pair of size 9 x 10
+
+  ![example](./GCM_9_10)
