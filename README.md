@@ -5,6 +5,6 @@
   - Output: [a, b] is a quaternary GCM pair.  
 
 ## test
-To generate a quaternary GCM pair of size 9 x 10
+To generate a quaternary GCM pair of size 9 x 10, the sum of whose auto-correlation functions is a 2-D delta-function:
 
   ![example](./gcm_9_10.svg)
